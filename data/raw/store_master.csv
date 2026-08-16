@@ -1,0 +1,31 @@
+store_id,store_name,city,store_type,opening_date
+ST01,Quetta Convenience Store #01,Quetta,Convenience Store,2017-07-08
+ST02,Islamabad Express Store #02,Islamabad,Express Store,2019-05-08
+ST03,Sialkot Supermarket #03,Sialkot,Supermarket,2019-03-28
+ST04,Multan Supermarket #04,Multan,Supermarket,2017-10-08
+ST05,Karachi Supermarket #05,Karachi,Supermarket,2020-11-03
+ST06,Sukkur Hypermarket #06,Sukkur,Hypermarket,2018-07-10
+ST07,Peshawar Hypermarket #07,Peshawar,Hypermarket,2014-08-20
+ST08,Quetta Supermarket #08,Quetta,Supermarket,2020-02-14
+ST09,Karachi Supermarket #09,Karachi,Supermarket,2018-08-06
+ST10,Rawalpindi Convenience Store #10,Rawalpindi,Convenience Store,2019-01-29
+ST11,Islamabad Supermarket #11,Islamabad,Supermarket,2018-07-11
+ST12,Hyderabad Convenience Store #12,Hyderabad,Convenience Store,2018-06-06
+ST13,Multan Convenience Store #13,Multan,Convenience Store,2014-09-22
+ST14,Sialkot Supermarket #14,Sialkot,Supermarket,2018-06-23
+ST15,Islamabad Convenience Store #15,Islamabad,Convenience Store,2020-05-11
+ST16,Lahore Convenience Store #16,Lahore,Convenience Store,2016-06-07
+ST17,Faisalabad Supermarket #17,Faisalabad,Supermarket,2018-10-28
+ST18,Karachi Supermarket #18,Karachi,Supermarket,2014-04-01
+ST19,Sialkot Convenience Store #19,Sialkot,Convenience Store,2016-10-12
+ST20,Multan Hypermarket #20,Multan,Hypermarket,2017-06-30
+ST21,Peshawar Hypermarket #21,Peshawar,Hypermarket,2021-11-11
+ST22,Islamabad Hypermarket #22,Islamabad,Hypermarket,2015-09-20
+ST23,Sukkur Convenience Store #23,Sukkur,Convenience Store,2016-03-19
+ST24,Gujranwala Convenience Store #24,Gujranwala,Convenience Store,2017-04-08
+ST25,Quetta Convenience Store #25,Quetta,Convenience Store,2021-12-10
+ST26,Lahore Convenience Store #26,Lahore,Convenience Store,2020-10-29
+ST27,Rawalpindi Supermarket #27,Rawalpindi,Supermarket,2014-04-12
+ST28,Karachi Supermarket #28,Karachi,Supermarket,2015-11-15
+ST29,Karachi Hypermarket #29,Karachi,Hypermarket,2020-07-28
+ST30,Multan Hypermarket #30,Multan,Hypermarket,2014-06-20

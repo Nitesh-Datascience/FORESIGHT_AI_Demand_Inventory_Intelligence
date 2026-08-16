@@ -1,0 +1,101 @@
+promo_id,promo_name,start_date,end_date,discount_pct,promo_type,target_type,target_value
+PROMO001,Spring Discount Days,2024-07-28,2024-08-02,15.1,BOGO,Brand,NovaFresh
+PROMO002,Summer Savings Event,2023-03-09,2023-03-21,7.0,Bundle Offer,All,All
+PROMO003,Payday Discount Days,2025-04-30,2025-05-26,10.2,BOGO,Brand,ZestyCo
+PROMO004,Super Sale,2025-06-07,2025-06-17,15.9,Clearance,SKU,SKU01108
+PROMO005,Festive Discount Days,2024-03-23,2024-04-08,46.0,Bundle Offer,All,All
+PROMO006,Spring Savings Event,2025-09-18,2025-10-04,11.1,Flat Discount,Brand,MetroBrand
+PROMO007,Super Offer,2025-09-11,2025-10-09,8.5,Clearance,Category,Health & Wellness
+PROMO008,Winter Deal Days,2023-02-24,2023-03-06,49.1,Flat Discount,Brand,BasicNeeds
+PROMO009,Grand Blowout,2024-10-30,2024-11-26,9.9,Bundle Offer,Category,Snacks & Confectionery
+PROMO010,Spring Fest,2023-08-19,2023-09-15,12.7,BOGO,All,All
+PROMO011,Payday Discount Days,2025-05-17,2025-05-23,28.7,BOGO,SKU,SKU04041
+PROMO012,Super Sale,2023-12-25,2024-01-16,17.2,Bundle Offer,SKU,SKU03430
+PROMO013,Mega Savings Event,2025-04-22,2025-05-01,23.7,Flat Discount,Brand,HomeStyle
+PROMO014,Festive Deal Days,2023-09-12,2023-10-03,23.8,Flat Discount,SKU,SKU02155
+PROMO015,Year-End Fest,2024-04-18,2024-04-24,30.9,Percentage Discount,Brand,EverydayPlus
+PROMO016,Mega Deal Days,2024-04-15,2024-05-09,5.9,BOGO,Category,Beverages
+PROMO017,Flash Sale,2024-07-24,2024-07-30,41.5,Clearance,Category,Grocery
+PROMO018,Super Savings Event,2025-07-16,2025-07-29,21.0,Percentage Discount,SKU,SKU01676
+PROMO019,Summer Offer,2024-03-25,2024-04-17,49.8,Bundle Offer,All,All
+PROMO020,Summer Fest,2025-08-02,2025-08-21,43.5,Clearance,Brand,TrueTaste
+PROMO021,Payday Discount Days,2022-06-16,2022-06-25,5.8,Bundle Offer,Category,Frozen Foods
+PROMO022,Clearance Deal Days,2022-05-28,2022-06-18,42.8,Percentage Discount,All,All
+PROMO023,Anniversary Bonanza,2024-06-13,2024-07-11,14.1,Flat Discount,All,All
+PROMO024,Mega Fest,2024-10-22,2024-11-10,5.0,Flat Discount,SKU,SKU00089
+PROMO025,Anniversary Savings Event,2023-12-03,2023-12-09,7.0,Percentage Discount,SKU,SKU01419
+PROMO026,Clearance Sale,2022-07-03,2022-07-23,43.7,BOGO,Category,Grocery
+PROMO027,Year-End Deal Days,2025-05-26,2025-06-01,20.8,BOGO,SKU,SKU02605
+PROMO028,Back to School Fest,2023-04-12,2023-04-18,19.8,Percentage Discount,All,All
+PROMO029,Festive Fest,2023-10-27,2023-11-05,41.2,Clearance,SKU,SKU02021
+PROMO030,Back to School Offer,2023-07-23,2023-08-08,49.7,Clearance,All,All
+PROMO031,Summer Fest,2022-11-16,2022-11-23,45.5,Percentage Discount,Category,Beverages
+PROMO032,Back to School Sale,2025-07-24,2025-08-13,48.3,Bundle Offer,Category,Personal Care
+PROMO033,Super Deal Days,2022-08-27,2022-09-07,9.0,Bundle Offer,All,All
+PROMO034,Winter Discount Days,2023-06-04,2023-06-11,23.4,Bundle Offer,All,All
+PROMO035,Festive Savings Event,2025-01-19,2025-02-09,16.0,Bundle Offer,Category,Apparel & Footwear
+PROMO036,Anniversary Fest,2024-05-10,2024-05-19,32.8,Flat Discount,All,All
+PROMO037,Mega Blowout,2022-02-04,2022-02-13,48.6,Percentage Discount,Category,Health & Wellness
+PROMO038,Grand Bonanza,2024-06-26,2024-07-15,48.5,Flat Discount,Brand,MetroBrand
+PROMO039,Mid-Season Blowout,2025-02-04,2025-02-23,34.9,Bundle Offer,Category,Frozen Foods
+PROMO040,Anniversary Discount Days,2023-06-01,2023-06-10,39.9,Percentage Discount,All,All
+PROMO041,Mid-Season Deal Days,2025-02-07,2025-02-24,44.3,Bundle Offer,All,All
+PROMO042,Spring Blowout,2024-09-26,2024-10-14,24.8,Percentage Discount,Category,Dairy & Bakery
+PROMO043,Year-End Offer,2023-12-23,2024-01-03,29.9,Percentage Discount,All,All
+PROMO044,Clearance Offer,2024-01-25,2024-02-04,44.4,BOGO,Category,Beverages
+PROMO045,Payday Discount Days,2024-06-21,2024-07-20,22.6,Flat Discount,All,All
+PROMO046,Anniversary Deal Days,2023-04-09,2023-04-18,21.9,BOGO,All,All
+PROMO047,Clearance Discount Days,2022-09-10,2022-10-10,42.5,Flat Discount,SKU,SKU01012
+PROMO048,Anniversary Fest,2023-10-15,2023-11-09,44.3,Bundle Offer,Category,Home & Kitchen
+PROMO049,Payday Bonanza,2022-01-23,2022-01-29,39.2,Percentage Discount,Category,Electronics & Accessories
+PROMO050,Weekend Offer,2022-10-19,2022-11-14,26.0,BOGO,Brand,PrimeCare
+PROMO051,Flash Savings Event,2023-08-18,2023-09-02,23.5,Bundle Offer,Brand,ValueChoice
+PROMO052,Grand Blowout,2022-02-18,2022-03-03,10.3,Clearance,Brand,SmartBuy
+PROMO053,Year-End Sale,2025-05-04,2025-05-23,19.5,Bundle Offer,SKU,SKU00800
+PROMO054,Mega Offer,2023-06-07,2023-06-20,15.5,BOGO,Category,Apparel & Footwear
+PROMO055,Anniversary Offer,2023-06-29,2023-07-17,13.4,Bundle Offer,Brand,CleanWave
+PROMO056,Winter Savings Event,2025-08-05,2025-08-20,38.8,BOGO,Category,Electronics & Accessories
+PROMO057,Year-End Deal Days,2025-02-14,2025-03-05,34.7,Percentage Discount,Category,Stationery & Office
+PROMO058,Payday Deal Days,2023-06-28,2023-07-08,8.1,Flat Discount,Brand,NovaFresh
+PROMO059,Grand Sale,2023-01-16,2023-02-12,12.3,Percentage Discount,SKU,SKU01028
+PROMO060,Flash Blowout,2025-06-21,2025-07-10,21.2,Bundle Offer,Category,Grocery
+PROMO061,Grand Blowout,2023-07-16,2023-08-10,24.8,Percentage Discount,Category,Personal Care
+PROMO062,Flash Sale,2022-04-27,2022-05-27,43.3,Clearance,SKU,SKU02463
+PROMO063,Summer Sale,2023-09-23,2023-10-15,6.8,Percentage Discount,Brand,SparkleClean
+PROMO064,Anniversary Offer,2023-11-06,2023-11-30,15.1,Clearance,Category,Home & Kitchen
+PROMO065,Anniversary Sale,2024-05-18,2024-06-15,44.9,Clearance,Brand,DailyBest
+PROMO066,Mid-Season Discount Days,2023-02-26,2023-03-10,21.6,Percentage Discount,Category,Stationery & Office
+PROMO067,Anniversary Offer,2025-03-08,2025-04-02,15.1,Flat Discount,Brand,EliteHome
+PROMO068,Weekend Deal Days,2023-08-20,2023-09-03,31.2,Percentage Discount,SKU,SKU02406
+PROMO069,Spring Bonanza,2024-01-22,2024-01-30,48.2,Clearance,All,All
+PROMO070,Mid-Season Discount Days,2024-09-26,2024-10-06,47.0,Clearance,Category,Dairy & Bakery
+PROMO071,Weekend Bonanza,2025-02-12,2025-03-09,28.7,BOGO,SKU,SKU01797
+PROMO072,Summer Offer,2023-03-20,2023-04-12,9.7,BOGO,Category,Stationery & Office
+PROMO073,Weekend Blowout,2022-01-30,2022-02-24,11.6,Bundle Offer,SKU,SKU02302
+PROMO074,Clearance Blowout,2022-07-17,2022-07-30,19.1,Bundle Offer,SKU,SKU02950
+PROMO075,Year-End Deal Days,2024-03-06,2024-04-02,43.8,BOGO,All,All
+PROMO076,Flash Deal Days,2022-02-28,2022-03-27,41.0,Clearance,Category,Grocery
+PROMO077,Weekend Offer,2023-10-19,2023-10-24,48.9,Clearance,Category,Stationery & Office
+PROMO078,Clearance Savings Event,2023-03-07,2023-03-30,27.8,Percentage Discount,Category,Home & Kitchen
+PROMO079,Grand Blowout,2023-03-13,2023-04-12,31.1,Clearance,Category,Apparel & Footwear
+PROMO080,Flash Offer,2024-10-22,2024-11-05,19.2,Percentage Discount,Brand,CleanWave
+PROMO081,Mega Bonanza,2024-06-18,2024-07-12,28.0,Clearance,Category,Frozen Foods
+PROMO082,Back to School Discount Days,2023-11-03,2023-11-18,37.6,Bundle Offer,SKU,SKU04841
+PROMO083,Spring Savings Event,2022-01-23,2022-02-18,6.8,BOGO,SKU,SKU01969
+PROMO084,Year-End Deal Days,2025-11-13,2025-11-21,44.9,Bundle Offer,Category,Apparel & Footwear
+PROMO085,Spring Bonanza,2025-10-19,2025-11-12,32.6,Flat Discount,SKU,SKU04487
+PROMO086,Back to School Fest,2022-11-23,2022-12-10,19.1,BOGO,Category,Health & Wellness
+PROMO087,Payday Offer,2024-07-29,2024-08-27,19.5,Flat Discount,Brand,UrbanBite
+PROMO088,Back to School Bonanza,2025-07-29,2025-08-27,49.6,Clearance,Brand,CleanWave
+PROMO089,Clearance Bonanza,2024-05-06,2024-05-30,18.4,Clearance,Category,Home & Kitchen
+PROMO090,Mid-Season Discount Days,2025-03-24,2025-04-14,30.2,Bundle Offer,Category,Beverages
+PROMO091,Clearance Savings Event,2022-12-14,2022-12-27,21.2,Flat Discount,Category,Snacks & Confectionery
+PROMO092,Payday Discount Days,2025-01-14,2025-01-31,29.9,Percentage Discount,Brand,ValueChoice
+PROMO093,Winter Blowout,2023-08-05,2023-08-27,24.1,Percentage Discount,Category,Stationery & Office
+PROMO094,Mega Fest,2024-09-23,2024-10-08,27.0,Percentage Discount,All,All
+PROMO095,Clearance Fest,2022-12-08,2023-01-05,8.6,Flat Discount,Category,Electronics & Accessories
+PROMO096,Mid-Season Offer,2022-01-30,2022-02-19,7.9,Clearance,Category,Beverages
+PROMO097,Flash Deal Days,2022-04-18,2022-05-05,43.4,Bundle Offer,SKU,SKU01318
+PROMO098,Festive Bonanza,2025-01-06,2025-02-03,43.2,Clearance,Category,Dairy & Bakery
+PROMO099,Flash Sale,2025-10-14,2025-10-22,49.0,Flat Discount,Brand,ValueChoice
+PROMO100,Payday Deal Days,2022-10-25,2022-11-09,32.6,Flat Discount,SKU,SKU04353
